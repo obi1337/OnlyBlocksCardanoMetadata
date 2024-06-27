@@ -1,7 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/obi1337/OnlyBlocksCardanoMetadata/main/OnlyBlocks_Thumbnail_60x60.png",
-        "url_png_logo": "https://raw.githubusercontent.com/obi1337/OnlyBlocksCardanoMetadata/main/OnlyBlocks_Logo_400x400.png",
+        "url_png_logo": "https://raw.githubusercontent.com/obi1337/OnlyBlocksCardanoMetadata/main/OnlyBlocks_Logo_400x400_low.png",
         "location": "Austria, Europe",
         "contact_email": "cardano.obi.pool@gmail.com",
         "social": {
@@ -12,5 +12,5 @@
             "server": "With nodes on bare metal so firm, they'll keep you satisfied long-term. Servers spread wide on Geo-redundant ground, ensuring uptime, always around. High availability with redundant firewalls, keeps your data safe within these walls. Traffic, whether physical or virtual, flows secure through paths quite thorough. Multiple security zones and networks in play, protecting your assets night and day. Active/Standby keeps systems in check, ensuring your network is never a wreck."
         }
     },
-    "adapools-verification": "331c7fc44013a8829d"
+    "verification": "331c7fc44013a8829d"
 }
