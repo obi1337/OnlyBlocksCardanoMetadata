@@ -3,5 +3,5 @@
 "description": "Because some transactions are so tight, you'll want to validate them all night.",
 "ticker": "OBI",
 "homepage": "https://stakepool.obiobi.at",
-"extended": "https://some.json"
+"extended": "https://raw.githubusercontent.com/obi1337/OnlyBlocksCardanoMetadata/main/OnlyBlocksImmuteableMetadataExtended.json"
 }
