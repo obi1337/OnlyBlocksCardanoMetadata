@@ -1,1 +1,15 @@
-x
+{
+    "info": {
+        "url_png_icon_64x64": "https://private-user-images.githubusercontent.com/75361860/343777520-b6946ff7-d7cd-45b4-a7bb-c44199692069.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0OTI5OTMsIm5iZiI6MTcxOTQ5MjY5MywicGF0aCI6Ii83NTM2MTg2MC8zNDM3Nzc1MjAtYjY5NDZmZjctZDdjZC00NWI0LWE3YmItYzQ0MTk5NjkyMDY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDEyNTEzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0Y2IxZTVhMDJmNDk1YWZhYzM5N2FhNGRhNzJkZDMxNTA3NGYyOWFiNjMzY2JlZjFjODZkODBkNmY0Nzg1ZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gNEApNm_YBGIzhq2MbmycmOLeF6j7MhdLt7-pH_XSA8",
+        "url_png_logo": "https://private-user-images.githubusercontent.com/75361860/343777783-3d440344-fe05-4d7f-b1a4-8b578734e7f8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0OTMwODMsIm5iZiI6MTcxOTQ5Mjc4MywicGF0aCI6Ii83NTM2MTg2MC8zNDM3Nzc3ODMtM2Q0NDAzNDQtZmUwNS00ZDdmLWIxYTQtOGI1Nzg3MzRlN2Y4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDEyNTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2OWUwNTU2NmExNWJmMTUwODE1MWI3MTQzZmJiMjFiYWRlODRjYWRhM2ZlM2FhYTM2ZjA2NDE4OWYyZTc4ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YzJF23ll2Bkkbc8NL_AyFP-crCUKQqn9Ts6qCtGjwZE",
+        "location": "Austria, Europe",
+        "contact_email": "cardano.obi.pool@gmail.com",
+        "social": {
+            "twitter_handle": "obitech13"
+        },
+        "about": {
+            "me": "Engineer for Networks and Security, with OpenSource and Community as a priority.",
+            "server": "With nodes on bare metal so firm, they'll keep you satisfied long-term. Servers spread wide on Geo-redundant ground, ensuring uptime, always around. High availability with redundant firewalls, keeps your data safe within these walls. Traffic, whether physical or virtual, flows secure through paths quite thorough. Multiple security zones and networks in play, protecting your assets night and day. Active/Standby keeps systems in check, ensuring your network is never a wreck."
+        }
+    }
+}
